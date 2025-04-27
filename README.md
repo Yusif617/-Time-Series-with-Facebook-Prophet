@@ -14,7 +14,7 @@ This repository contains a Jupyter Notebook that demonstrates how to predict Goo
   * [Running the Code](#bookmark=id.jux1na8at32d)  
 * [Results](#bookmark=id.76pxj4ctc9ul)  
 * [Visualizations](#bookmark=id.l8gmh6ikooha)  
-* [License](#bookmark=id.oai00945xgf)
+
 
 ## **Project Description**
 
