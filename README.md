@@ -110,7 +110,3 @@ Example forecast output:
 ## **Visualizations**
 
 The notebook generates a plot showing the historical training data, the actual test data, and the Prophet model's forecast. This visualization helps assess how well the model captures the trends and seasonality in the stock prices and how closely the predictions align with the actual values.
-
-## **License**
-
-\[Specify your license here, e.g., MIT, Apache 2.0, etc.\]
