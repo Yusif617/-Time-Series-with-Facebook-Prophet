@@ -4,16 +4,16 @@ This repository contains a Jupyter Notebook that demonstrates how to predict Goo
 
 ## **Table of Contents**
 
-* [Project Description](#bookmark=id.up021wocp199)  
-* [Dataset](#bookmark=id.e6h9d4b4dba9)  
-* [Methodology](#bookmark=id.xiw78c8hx7sm)  
-* [Hyperparameter Tuning](#bookmark=id.jfjquqwee63a)  
-* [Getting Started](#bookmark=id.yjug2yc969m)  
-  * [Prerequisites](#bookmark=id.682ajslshjs)  
-  * [Installation](#bookmark=id.4071csebbncj)  
-  * [Running the Code](#bookmark=id.jux1na8at32d)  
-* [Results](#bookmark=id.76pxj4ctc9ul)  
-* [Visualizations](#bookmark=id.l8gmh6ikooha)  
+* [Project Description](#project-description)  
+* [Dataset](#dataset)  
+* [Methodology](#methodology)  
+* [Hyperparameter Tuning](#hyperparameter-tuning)  
+* [Getting Started](#getting-started)  
+  * [Prerequisites](#prerequisites)  
+  * [Installation](#installation)  
+  * [Running the Code](#running-the-code)  
+* [Results](#results)  
+* [Visualizations](#visualizations)  
 
 
 ## **Project Description**
